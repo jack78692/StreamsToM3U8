@@ -1,4 +1,47 @@
 <tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="SandeshNewsTV.yt">
+    <display-name lang="en">SandeshNewsTV</display-name>
+  </channel>
+  <programme channel="SandeshNewsTV.yt" start="20240605120000 +0100" stop="20240605150000 +0100">
+    <title lang="en">Sandesh News LIVE :  Lok Sabha Election Results 2024 | PM Modi | Rahul Gandhi | NDA vs INDIA</title>
+    <desc lang="en">#loksabhaelection2024 #bjp #congress #loksabhaelectionresults #amitshah #pmmodi #rahulgandhi #congress #parshottamrupala #arvindkejriwal #pmmodilive #pmmodid...</desc>
+    <icon src="https://i.ytimg.com/vi/N-x0VZ2x2nI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SandeshNewsTV.yt" start="20240605150000 +0100" stop="20240605180000 +0100">
+    <title lang="en">Sandesh News LIVE :  Lok Sabha Election Results 2024 | PM Modi | Rahul Gandhi | NDA vs INDIA</title>
+    <desc lang="en">#loksabhaelection2024 #bjp #congress #loksabhaelectionresults #amitshah #pmmodi #rahulgandhi #congress #parshottamrupala #arvindkejriwal #pmmodilive #pmmodid...</desc>
+    <icon src="https://i.ytimg.com/vi/N-x0VZ2x2nI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SandeshNewsTV.yt" start="20240605180000 +0100" stop="20240605210000 +0100">
+    <title lang="en">Sandesh News LIVE :  Lok Sabha Election Results 2024 | PM Modi | Rahul Gandhi | NDA vs INDIA</title>
+    <desc lang="en">#loksabhaelection2024 #bjp #congress #loksabhaelectionresults #amitshah #pmmodi #rahulgandhi #congress #parshottamrupala #arvindkejriwal #pmmodilive #pmmodid...</desc>
+    <icon src="https://i.ytimg.com/vi/N-x0VZ2x2nI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SandeshNewsTV.yt" start="20240605210000 +0100" stop="20240606000000 +0100">
+    <title lang="en">Sandesh News LIVE :  Lok Sabha Election Results 2024 | PM Modi | Rahul Gandhi | NDA vs INDIA</title>
+    <desc lang="en">#loksabhaelection2024 #bjp #congress #loksabhaelectionresults #amitshah #pmmodi #rahulgandhi #congress #parshottamrupala #arvindkejriwal #pmmodilive #pmmodid...</desc>
+    <icon src="https://i.ytimg.com/vi/N-x0VZ2x2nI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SandeshNewsTV.yt" start="20240606000000 +0100" stop="20240606030000 +0100">
+    <title lang="en">Sandesh News LIVE :  Lok Sabha Election Results 2024 | PM Modi | Rahul Gandhi | NDA vs INDIA</title>
+    <desc lang="en">#loksabhaelection2024 #bjp #congress #loksabhaelectionresults #amitshah #pmmodi #rahulgandhi #congress #parshottamrupala #arvindkejriwal #pmmodilive #pmmodid...</desc>
+    <icon src="https://i.ytimg.com/vi/N-x0VZ2x2nI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SandeshNewsTV.yt" start="20240606030000 +0100" stop="20240606060000 +0100">
+    <title lang="en">Sandesh News LIVE :  Lok Sabha Election Results 2024 | PM Modi | Rahul Gandhi | NDA vs INDIA</title>
+    <desc lang="en">#loksabhaelection2024 #bjp #congress #loksabhaelectionresults #amitshah #pmmodi #rahulgandhi #congress #parshottamrupala #arvindkejriwal #pmmodilive #pmmodid...</desc>
+    <icon src="https://i.ytimg.com/vi/N-x0VZ2x2nI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SandeshNewsTV.yt" start="20240606060000 +0100" stop="20240606090000 +0100">
+    <title lang="en">Sandesh News LIVE :  Lok Sabha Election Results 2024 | PM Modi | Rahul Gandhi | NDA vs INDIA</title>
+    <desc lang="en">#loksabhaelection2024 #bjp #congress #loksabhaelectionresults #amitshah #pmmodi #rahulgandhi #congress #parshottamrupala #arvindkejriwal #pmmodilive #pmmodid...</desc>
+    <icon src="https://i.ytimg.com/vi/N-x0VZ2x2nI/maxresdefault_live.jpg"/>
+  </programme>
+  <programme channel="SandeshNewsTV.yt" start="20240606090000 +0100" stop="20240606120000 +0100">
+    <title lang="en">Sandesh News LIVE :  Lok Sabha Election Results 2024 | PM Modi | Rahul Gandhi | NDA vs INDIA</title>
+    <desc lang="en">#loksabhaelection2024 #bjp #congress #loksabhaelectionresults #amitshah #pmmodi #rahulgandhi #congress #parshottamrupala #arvindkejriwal #pmmodilive #pmmodid...</desc>
+    <icon src="https://i.ytimg.com/vi/N-x0VZ2x2nI/maxresdefault_live.jpg"/>
+  </programme>
   <channel id="Chillhop.yt">
     <display-name lang="en">Chillhop Music (jazzy &amp; lofi hip hop beats)</display-name>
   </channel>
