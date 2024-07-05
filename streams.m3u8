@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="disneychannel.yt" tvg-name="disneychannel" group-title="Kids", disneychannel
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720192888/ei/GLuHZsONMeyIkucP5o2bgAw/ip/20.161.78.201/id/WFDbJY0eBGI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/NO7bARNHvUKuJRYuGXmXj9bkiM6B67YaD_nSPXq2tGTp2JXHa_DruAf-g8yAkJI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQnKUdtceaFGHbdYUfehv1uMNpjHxMn4Ix3GaArRAtUUCIESTUZ1RwIMfP74Eu2uWLAJKhyz5XNmSNLGrA_7rXNsG/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720204515/ei/g-iHZo3ICc62kucPmJ7g2Ao/ip/20.49.55.70/id/WFDbJY0eBGI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/spc/NO7bAYZX4d9U59xxattRZh8e0DsBPRSVukc_WtJW7CLlvbgiS9ouFy9o0SLi7gk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaWiIbKdl8Oqzy0LI3d2CTlhAlrCDePXqna6NT93WVPwCIQD0cXvJn4EgP2ePF8MBLFsVLazzBbI0AlnG_JW6KGpZDQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="PowerRangersOfficial.yt" tvg-name="PowerRangersOfficial" group-title="Kids", PowerRangersOfficial
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
