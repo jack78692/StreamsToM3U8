@@ -118,7 +118,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="RainyJazz.yt" tvg-name="Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio" group-title="Music", Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio
-https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727299435/ei/Cyv0ZpyYBdqKkucP-JWY4As/ip/20.161.78.46/id/DSGyEsJ17cI.456/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51273604/txs/51273600%2C51273601%2C51273602%2C51273603%2C51273604%2C51273605/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxWy6hSL8aNkDNor3ddyrb-Fmw58l2qcxrkBvcIK-RQmV1NgnrAiUFfN4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299151%2C51300761/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMMtw-KgbS12lCzyDlJrKCFvUzRNztOtzViRlmPr7msdAiBqXKag6m7sVPRtzJANn9lWZy5NLisucauu-yKMI-jLEg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="LittleSoul.yt" tvg-name="Little Soul: Music to put you in a better mood" group-title="Music", Little Soul: Music to put you in a better mood
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4

@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="RainyJazz.yt">
+    <display-name lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio</display-name>
+  </channel>
+  <programme channel="RainyJazz.yt" start="20240925150000 +0100" stop="20240925180000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20240925180000 +0100" stop="20240925210000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20240925210000 +0100" stop="20240926000000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20240926000000 +0100" stop="20240926030000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20240926030000 +0100" stop="20240926060000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20240926060000 +0100" stop="20240926090000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20240926090000 +0100" stop="20240926120000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+  <programme channel="RainyJazz.yt" start="20240926120000 +0100" stop="20240926150000 +0100">
+    <title lang="en">Rainy Jazz: Relaxing Jazz &amp; Bossa Nova Music Radio - 24/7 Chill Out Piano &amp; Guitar Music</title>
+    <desc lang="en">💿 Listen Everywherehttps://lnk.to/ZVM2fj58_____________________________________________🔔 Please Subscribe!→ https://www.youtube.com/user/cafemusicbgmchanne...</desc>
+    <icon src="https://i.ytimg.com/vi/DSGyEsJ17cI/maxresdefault.jpg?v=5e796b8f"/>
+  </programme>
+</tv>
