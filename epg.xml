@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="TBS1013.yt">
+    <display-name lang="en">TBS Korea eFM 101.3</display-name>
+  </channel>
+  <programme channel="TBS1013.yt" start="20241105010000 +0000" stop="20241105040000 +0000">
+    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
+    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
+    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault.jpg?v=6417f93d"/>
+  </programme>
+  <programme channel="TBS1013.yt" start="20241105040000 +0000" stop="20241105070000 +0000">
+    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
+    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
+    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault.jpg?v=6417f93d"/>
+  </programme>
+  <programme channel="TBS1013.yt" start="20241105070000 +0000" stop="20241105100000 +0000">
+    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
+    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
+    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault.jpg?v=6417f93d"/>
+  </programme>
+  <programme channel="TBS1013.yt" start="20241105100000 +0000" stop="20241105130000 +0000">
+    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
+    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
+    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault.jpg?v=6417f93d"/>
+  </programme>
+  <programme channel="TBS1013.yt" start="20241105130000 +0000" stop="20241105160000 +0000">
+    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
+    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
+    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault.jpg?v=6417f93d"/>
+  </programme>
+  <programme channel="TBS1013.yt" start="20241105160000 +0000" stop="20241105190000 +0000">
+    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
+    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
+    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault.jpg?v=6417f93d"/>
+  </programme>
+  <programme channel="TBS1013.yt" start="20241105190000 +0000" stop="20241105220000 +0000">
+    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
+    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
+    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault.jpg?v=6417f93d"/>
+  </programme>
+  <programme channel="TBS1013.yt" start="20241105220000 +0000" stop="20241106010000 +0000">
+    <title lang="en">TBS eFM 101.3MHz LIVE stream</title>
+    <desc lang="en">TBS eFM [101.3 MHZ] is a 24 hour foreign language radio operating from Seoul, Korea. Our diverse programs cover the areas of news, current affairs, music, cu...</desc>
+    <icon src="https://i.ytimg.com/vi/i2pC0RRyGMg/maxresdefault.jpg?v=6417f93d"/>
+  </programme>
+</tv>
