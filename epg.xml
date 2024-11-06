@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="KBSWorldRadio.yt">
+    <display-name lang="en">KBS World Radio</display-name>
+  </channel>
+  <programme channel="KBSWorldRadio.yt" start="20241106180000 +0000" stop="20241106210000 +0000">
+    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
+    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
+    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=65b9d702"/>
+  </programme>
+  <programme channel="KBSWorldRadio.yt" start="20241106210000 +0000" stop="20241107000000 +0000">
+    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
+    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
+    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=65b9d702"/>
+  </programme>
+  <programme channel="KBSWorldRadio.yt" start="20241107000000 +0000" stop="20241107030000 +0000">
+    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
+    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
+    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=65b9d702"/>
+  </programme>
+  <programme channel="KBSWorldRadio.yt" start="20241107030000 +0000" stop="20241107060000 +0000">
+    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
+    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
+    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=65b9d702"/>
+  </programme>
+  <programme channel="KBSWorldRadio.yt" start="20241107060000 +0000" stop="20241107090000 +0000">
+    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
+    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
+    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=65b9d702"/>
+  </programme>
+  <programme channel="KBSWorldRadio.yt" start="20241107090000 +0000" stop="20241107120000 +0000">
+    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
+    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
+    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=65b9d702"/>
+  </programme>
+  <programme channel="KBSWorldRadio.yt" start="20241107120000 +0000" stop="20241107150000 +0000">
+    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
+    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
+    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=65b9d702"/>
+  </programme>
+  <programme channel="KBSWorldRadio.yt" start="20241107150000 +0000" stop="20241107180000 +0000">
+    <title lang="en">[ON-AIR] KBS WORLD Radio English Service</title>
+    <desc lang="en">▶Enjoy your favorite programs on KBS WORLD Radio English Service 24/7 on Youtube. For the schedule, click  http://world.kbs.co.kr/service/about_kong.htm?lang...</desc>
+    <icon src="https://i.ytimg.com/vi/EIfaYst9ZsY/maxresdefault.jpg?v=65b9d702"/>
+  </programme>
+</tv>
