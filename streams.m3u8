@@ -88,7 +88,7 @@ https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="NDTV.yt" tvg-name="NDTV 24x7" group-title="News", NDTV 24x7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731338627/ei/I80xZ-O5Lo75sfIPncKGiQQ/ip/52.157.14.89/id/sr2Ry9JVDtU.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51329644/txs/51329643%2C51329644%2C51329645/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAWd9iiArxayKHpgktrZptK-9U4PMFAZxmCZrpxV2zLaqtZzTGtBiMtcQdxU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKF1LPt6TI9qXfpf0GsQv2ZIIMRAYyyD2OnbxXRMlW9uAiEA6crYVUVxjHq7g7lQ5wmf1cHyIJY9vTRoNHkxRmvrLHg%3D/file/index.m3u8
+https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
 
 #EXTINF:-1 tvg-id="SABCNews.yt" tvg-name="SABC News" group-title="News", SABC News
 https://github.com/ExperiencersInternational/tvsetup/raw/main/staticch/no_stream_2.mp4
