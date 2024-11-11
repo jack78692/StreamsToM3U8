@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="NDTV.yt">
+    <display-name lang="en">NDTV 24x7</display-name>
+  </channel>
+  <programme channel="NDTV.yt" start="20241111090000 +0000" stop="20241111120000 +0000">
+    <title lang="en">NDTV 24x7 Live : SC On Bulldozer Justice | Donald Trump | Sopore Encounter | Bengal BJP Worker Death</title>
+    <desc lang="en">The Israeli army released a video on November 1 which showed the airstrike that killed senior Hamas official Izz al-Din Kassab in the southern Gaza town of K...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241111120000 +0000" stop="20241111150000 +0000">
+    <title lang="en">NDTV 24x7 Live : SC On Bulldozer Justice | Donald Trump | Sopore Encounter | Bengal BJP Worker Death</title>
+    <desc lang="en">The Israeli army released a video on November 1 which showed the airstrike that killed senior Hamas official Izz al-Din Kassab in the southern Gaza town of K...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241111150000 +0000" stop="20241111180000 +0000">
+    <title lang="en">NDTV 24x7 Live : SC On Bulldozer Justice | Donald Trump | Sopore Encounter | Bengal BJP Worker Death</title>
+    <desc lang="en">The Israeli army released a video on November 1 which showed the airstrike that killed senior Hamas official Izz al-Din Kassab in the southern Gaza town of K...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241111180000 +0000" stop="20241111210000 +0000">
+    <title lang="en">NDTV 24x7 Live : SC On Bulldozer Justice | Donald Trump | Sopore Encounter | Bengal BJP Worker Death</title>
+    <desc lang="en">The Israeli army released a video on November 1 which showed the airstrike that killed senior Hamas official Izz al-Din Kassab in the southern Gaza town of K...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241111210000 +0000" stop="20241112000000 +0000">
+    <title lang="en">NDTV 24x7 Live : SC On Bulldozer Justice | Donald Trump | Sopore Encounter | Bengal BJP Worker Death</title>
+    <desc lang="en">The Israeli army released a video on November 1 which showed the airstrike that killed senior Hamas official Izz al-Din Kassab in the southern Gaza town of K...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241112000000 +0000" stop="20241112030000 +0000">
+    <title lang="en">NDTV 24x7 Live : SC On Bulldozer Justice | Donald Trump | Sopore Encounter | Bengal BJP Worker Death</title>
+    <desc lang="en">The Israeli army released a video on November 1 which showed the airstrike that killed senior Hamas official Izz al-Din Kassab in the southern Gaza town of K...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241112030000 +0000" stop="20241112060000 +0000">
+    <title lang="en">NDTV 24x7 Live : SC On Bulldozer Justice | Donald Trump | Sopore Encounter | Bengal BJP Worker Death</title>
+    <desc lang="en">The Israeli army released a video on November 1 which showed the airstrike that killed senior Hamas official Izz al-Din Kassab in the southern Gaza town of K...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+  <programme channel="NDTV.yt" start="20241112060000 +0000" stop="20241112090000 +0000">
+    <title lang="en">NDTV 24x7 Live : SC On Bulldozer Justice | Donald Trump | Sopore Encounter | Bengal BJP Worker Death</title>
+    <desc lang="en">The Israeli army released a video on November 1 which showed the airstrike that killed senior Hamas official Izz al-Din Kassab in the southern Gaza town of K...</desc>
+    <icon src="https://i.ytimg.com/vi/sr2Ry9JVDtU/maxresdefault.jpg?v=65bce0fb"/>
+  </programme>
+</tv>
