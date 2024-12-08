@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="KoreaNet.yt">
+    <display-name lang="en">Korea.net Live</display-name>
+  </channel>
+  <programme channel="KoreaNet.yt" start="20241208180000 +0000" stop="20241208210000 +0000">
+    <title lang="en">🔴Korea.net 24/7 LIVE :  December 9th (MON) KST</title>
+    <desc lang="en">Welcome to Koreanet's 24/7 LIVE Stream! Tune in to watch diverse content that takes you around Korea and its culture! Educational and fun, the Koreanet lives...</desc>
+    <icon src="https://i.ytimg.com/vi/7sR4ALIggEo/maxresdefault.jpg?v=65dd707c"/>
+  </programme>
+  <programme channel="KoreaNet.yt" start="20241208210000 +0000" stop="20241209000000 +0000">
+    <title lang="en">🔴Korea.net 24/7 LIVE :  December 9th (MON) KST</title>
+    <desc lang="en">Welcome to Koreanet's 24/7 LIVE Stream! Tune in to watch diverse content that takes you around Korea and its culture! Educational and fun, the Koreanet lives...</desc>
+    <icon src="https://i.ytimg.com/vi/7sR4ALIggEo/maxresdefault.jpg?v=65dd707c"/>
+  </programme>
+  <programme channel="KoreaNet.yt" start="20241209000000 +0000" stop="20241209030000 +0000">
+    <title lang="en">🔴Korea.net 24/7 LIVE :  December 9th (MON) KST</title>
+    <desc lang="en">Welcome to Koreanet's 24/7 LIVE Stream! Tune in to watch diverse content that takes you around Korea and its culture! Educational and fun, the Koreanet lives...</desc>
+    <icon src="https://i.ytimg.com/vi/7sR4ALIggEo/maxresdefault.jpg?v=65dd707c"/>
+  </programme>
+  <programme channel="KoreaNet.yt" start="20241209030000 +0000" stop="20241209060000 +0000">
+    <title lang="en">🔴Korea.net 24/7 LIVE :  December 9th (MON) KST</title>
+    <desc lang="en">Welcome to Koreanet's 24/7 LIVE Stream! Tune in to watch diverse content that takes you around Korea and its culture! Educational and fun, the Koreanet lives...</desc>
+    <icon src="https://i.ytimg.com/vi/7sR4ALIggEo/maxresdefault.jpg?v=65dd707c"/>
+  </programme>
+  <programme channel="KoreaNet.yt" start="20241209060000 +0000" stop="20241209090000 +0000">
+    <title lang="en">🔴Korea.net 24/7 LIVE :  December 9th (MON) KST</title>
+    <desc lang="en">Welcome to Koreanet's 24/7 LIVE Stream! Tune in to watch diverse content that takes you around Korea and its culture! Educational and fun, the Koreanet lives...</desc>
+    <icon src="https://i.ytimg.com/vi/7sR4ALIggEo/maxresdefault.jpg?v=65dd707c"/>
+  </programme>
+  <programme channel="KoreaNet.yt" start="20241209090000 +0000" stop="20241209120000 +0000">
+    <title lang="en">🔴Korea.net 24/7 LIVE :  December 9th (MON) KST</title>
+    <desc lang="en">Welcome to Koreanet's 24/7 LIVE Stream! Tune in to watch diverse content that takes you around Korea and its culture! Educational and fun, the Koreanet lives...</desc>
+    <icon src="https://i.ytimg.com/vi/7sR4ALIggEo/maxresdefault.jpg?v=65dd707c"/>
+  </programme>
+  <programme channel="KoreaNet.yt" start="20241209120000 +0000" stop="20241209150000 +0000">
+    <title lang="en">🔴Korea.net 24/7 LIVE :  December 9th (MON) KST</title>
+    <desc lang="en">Welcome to Koreanet's 24/7 LIVE Stream! Tune in to watch diverse content that takes you around Korea and its culture! Educational and fun, the Koreanet lives...</desc>
+    <icon src="https://i.ytimg.com/vi/7sR4ALIggEo/maxresdefault.jpg?v=65dd707c"/>
+  </programme>
+  <programme channel="KoreaNet.yt" start="20241209150000 +0000" stop="20241209180000 +0000">
+    <title lang="en">🔴Korea.net 24/7 LIVE :  December 9th (MON) KST</title>
+    <desc lang="en">Welcome to Koreanet's 24/7 LIVE Stream! Tune in to watch diverse content that takes you around Korea and its culture! Educational and fun, the Koreanet lives...</desc>
+    <icon src="https://i.ytimg.com/vi/7sR4ALIggEo/maxresdefault.jpg?v=65dd707c"/>
+  </programme>
+</tv>
