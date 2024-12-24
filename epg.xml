@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="ArirangTV.yt">
+    <display-name lang="en">Arirang TV</display-name>
+  </channel>
+  <programme channel="ArirangTV.yt" start="20241224180000 +0000" stop="20241224210000 +0000">
+    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
+    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
+    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/hqdefault.jpg?v=675a6007"/>
+  </programme>
+  <programme channel="ArirangTV.yt" start="20241224210000 +0000" stop="20241225000000 +0000">
+    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
+    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
+    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/hqdefault.jpg?v=675a6007"/>
+  </programme>
+  <programme channel="ArirangTV.yt" start="20241225000000 +0000" stop="20241225030000 +0000">
+    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
+    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
+    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/hqdefault.jpg?v=675a6007"/>
+  </programme>
+  <programme channel="ArirangTV.yt" start="20241225030000 +0000" stop="20241225060000 +0000">
+    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
+    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
+    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/hqdefault.jpg?v=675a6007"/>
+  </programme>
+  <programme channel="ArirangTV.yt" start="20241225060000 +0000" stop="20241225090000 +0000">
+    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
+    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
+    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/hqdefault.jpg?v=675a6007"/>
+  </programme>
+  <programme channel="ArirangTV.yt" start="20241225090000 +0000" stop="20241225120000 +0000">
+    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
+    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
+    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/hqdefault.jpg?v=675a6007"/>
+  </programme>
+  <programme channel="ArirangTV.yt" start="20241225120000 +0000" stop="20241225150000 +0000">
+    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
+    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
+    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/hqdefault.jpg?v=675a6007"/>
+  </programme>
+  <programme channel="ArirangTV.yt" start="20241225150000 +0000" stop="20241225180000 +0000">
+    <title lang="en">Live from KOREA | 24/7 Streaming | Arirang TV [아리랑TV] (국제방송교류재단)</title>
+    <desc lang="en">.   Arirang TV (World) SCHEDULE : https://arirang.com/scheduleNews : https://www.youtube.com/user/arirangnewsK-Pop : https://www.youtube.com/user/arirangworl...</desc>
+    <icon src="https://i.ytimg.com/vi/CJVBX7KI5nU/hqdefault.jpg?v=675a6007"/>
+  </programme>
+</tv>
